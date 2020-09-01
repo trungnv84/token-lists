@@ -1,0 +1,23 @@
+{
+  "name": "2 Example List",
+  "timestamp": "2020-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "uniswap",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xb0Af1886338442283BcaA7E2b799caf113696C68",
+      "chainId": 4,
+      "name": "W Uquid Coin",
+      "symbol": "WUC",
+      "decimals": 18
+    }
+  ]
+}
