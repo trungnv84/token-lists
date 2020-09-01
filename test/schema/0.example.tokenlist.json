@@ -1,0 +1,30 @@
+{
+  "name": "0 Example List",
+  "timestamp": "2020-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "uniswap",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0x371F58Df1defC711496E6f86EA3C65Da3984bEF2",
+      "chainId": 4,
+      "name": "Wrapped UC",
+      "symbol": "WUC",
+      "decimals": 18
+    },
+    {
+      "address": "0x371F58Df1defC711496E6f86EA3C65Da3984bEF2",
+      "chainId": 4,
+      "name": "Tezt UC",
+      "symbol": "TUC",
+      "decimals": 18
+    }
+  ]
+}
